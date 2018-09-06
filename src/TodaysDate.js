@@ -1,3 +1,3 @@
-const TodaysDate = () => {Date();}
+const TodaysDate = () => {return Date();}
 
 export default TodaysDate;
