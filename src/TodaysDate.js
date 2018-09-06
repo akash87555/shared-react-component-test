@@ -1,3 +1,3 @@
-const TodaysDate = () =>
-  <div>{`Today's date is ${Date()}`}</div>;
+const TodaysDate = () => {Date();}
+
 export default TodaysDate;
